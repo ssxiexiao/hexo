@@ -5,7 +5,7 @@
 # Site
 title: Xiao Xie
 subtitle:
-description: M.S. in Computer Science
+description: Ph.D. in Computer Science
 author: Xiao Xie
 language: en
 timezone:
@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: git@github.com:ssxiexiao/ssxiexiao.github.io.git
   branch: master
+
+# Photo
+avatar: /upload/photo.jpg
